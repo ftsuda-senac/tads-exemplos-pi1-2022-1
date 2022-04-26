@@ -6,3 +6,4 @@ Exemplos diversos desenvolvidos durante as aulas
 * `System.out.println();`
 * `Scanner in = new Scanner(System.in);`
 * Uso de variáveis
+* Exemplos diversos
