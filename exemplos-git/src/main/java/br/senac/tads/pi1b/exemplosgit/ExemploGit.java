@@ -6,17 +6,6 @@ public class ExemploGit {
 
     public static void main(String[] args) {
         
-        int[] vetor = new int[15];
-
-        for (int i = 0; i < vetor.length; i++) {
-
-            int random = new Random().nextInt(9);
-            vetor[i] = random;
-        }
-
-        for (int i = 0; i < vetor.length; i++) {
-            System.out.println(vetor[i]);
-        }
 
         int soma = 1 + 199;
         System.out.println("Resultado soma: " + soma);
