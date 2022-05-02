@@ -7,6 +7,13 @@ public class ExemploGit {
         int soma = 1 + 199;
         System.out.println("Resultado soma: " + soma);
         
+        int numero = 10;
+        if (numero % 2 == 0) {
+            System.out.println("Número par");
+        } else {
+            System.out.println("Número ímpar");
+        }
+        
     }
     
 }
