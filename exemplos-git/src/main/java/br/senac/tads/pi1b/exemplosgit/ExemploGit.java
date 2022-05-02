@@ -6,17 +6,7 @@ public class ExemploGit {
 
     public static void main(String[] args) {
         
-        int[] vetor = new int[15];
-
-        for (int i = 0; i < vetor.length; i++) {
-
-            int random = new Random().nextInt(9);
-            vetor[i] = random;
-        }
-
-        for (int i = 0; i < vetor.length; i++) {
-            System.out.println(vetor[i]);
-        }
+        System.out.println("Eu sou Dougras! você não é o Dogras");
 
     }
 }
